@@ -1,2 +1,3 @@
 this is test
 this is test
+all this is manage information that not inclued to me i need to make dedupe process for all venue dublication
